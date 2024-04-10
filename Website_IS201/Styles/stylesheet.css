@@ -1,0 +1,39 @@
+body {
+    background-color: bisque(0, 0, 0, 0.845);
+    color: black;
+    font-style: bold;
+    /*text color*/
+}
+h1 {
+    font-family: 'Courier New', 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h5{
+    font-style: italic;
+    text-align: center;
+}
+a {
+    color: darkgreen
+}
+a:visited {
+    color: green
+}
+img {
+    border: 2px solid black;
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+}
+.imgcenter {
+    display: block;
+}
+    .rizz {
+        font-family: 'Courier New', Courier, monospace;
+        color: aqua;
+        background-color: brown;
+        border: dashed burlywood 5px;
+        font-size: 36pt;
+        font-style: italic;
+    }
